@@ -1,4 +1,4 @@
-# simple-to-do-application# Simple To-Do List Application
+# Simple To-Do List Application
 
 This is a simple To-Do List application built using HTML, CSS, and JavaScript. It allows users to manage their daily tasks efficiently by adding, completing, and deleting tasks.
 
